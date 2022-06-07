@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/wayne/dev/ASPdotNetDocker/samples/aspnetapp/aspnetapp/aspnetapp.csproj": {}
+  },
+  "projects": {
+    "/home/wayne/dev/ASPdotNetDocker/samples/aspnetapp/aspnetapp/aspnetapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/wayne/dev/ASPdotNetDocker/samples/aspnetapp/aspnetapp/aspnetapp.csproj",
+        "projectName": "aspnetapp",
+        "projectPath": "/home/wayne/dev/ASPdotNetDocker/samples/aspnetapp/aspnetapp/aspnetapp.csproj",
+        "packagesPath": "/home/wayne/.nuget/packages/",
+        "outputPath": "/home/wayne/dev/ASPdotNetDocker/samples/aspnetapp/aspnetapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/wayne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/wayne/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

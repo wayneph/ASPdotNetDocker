@@ -13,7 +13,7 @@
 
 .NET has several capabilities that make development easier, including automatic memory management, (runtime) generic types, reflection, asynchrony, concurrency, and native interop. Millions of developers take advantage of these capabilities to efficiently build high-quality applications.
 
-You can use C# or F# to write .NET apps. 
+You can use C# or F# to write .NET apps.
 
 - [C#](https://docs.microsoft.com/dotnet/csharp/) is simple, powerful, type-safe, and object-oriented while retaining the expressiveness and elegance of C-style languages. Anyone familiar with C and similar languages will find it straightforward to write in C#.
 - [F#](https://docs.microsoft.com/dotnet/fsharp/) is a cross-platform, open-source, functional programming language for .NET. It also includes object-oriented and imperative programming.
